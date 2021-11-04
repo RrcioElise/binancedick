@@ -7,7 +7,7 @@
 
 ### 下载项目
 ```
-git clone https://github.com/RrcioElise/binance.git
+git clone https://github.com/RrcioElise/binancedick.git
 ```
 
 ### 安装依赖
